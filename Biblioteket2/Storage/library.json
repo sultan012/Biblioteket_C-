@@ -1,0 +1,137 @@
+[
+  {
+    "$type": "Biblioteket2.Fictional, Biblioteket2",
+    "Published": "2018-10-02T00:00:00",
+    "Language": "Svenska",
+    "Title": "Som pesten",
+    "Author": "Hanne-Vibeke Holst ",
+    "Count": 5,
+    "InitialCount": 5
+  },
+  {
+    "$type": "Biblioteket2.Fictional, Biblioteket2",
+    "Published": "2018-06-29T00:00:00",
+    "Language": "Svenska",
+    "Title": "Professor Wille Vingmutter, mästerdetektiv",
+    "Author": "Leif G W Persson",
+    "Count": 3,
+    "InitialCount": 3
+  },
+  {
+    "$type": "Biblioteket2.Children, Biblioteket2",
+    "Age": 8,
+    "Pictures": false,
+    "Title": "Tsatsiki och farsan",
+    "Author": "Moni Nilson",
+    "Count": 2,
+    "InitialCount": 2
+  },
+  {
+    "$type": "Biblioteket2.Children, Biblioteket2",
+    "Age": 3,
+    "Pictures": true,
+    "Title": "Barnens sånger och sagor",
+    "Author": "Catarina Kruusval",
+    "Count": 1,
+    "InitialCount": 3
+  },
+  {
+    "$type": "Biblioteket2.Fact, Biblioteket2",
+    "Topic": "AI",
+    "Title": "Liv 3.0 : att vara människa i den artificiella intelligensens tid ",
+    "Author": "Max Tegmark",
+    "Count": 4,
+    "InitialCount": 4
+  },
+  {
+    "$type": "Biblioteket2.Fact, Biblioteket2",
+    "Topic": "Klockor",
+    "Title": "Klockboken",
+    "Author": "Carl Hallvarsson",
+    "Count": 5,
+    "InitialCount": 5
+  },
+  {
+    "$type": "Biblioteket2.Fact, Biblioteket2",
+    "Topic": "kor",
+    "Title": "test3333",
+    "Author": "Ca333333rl on",
+    "Count": 10,
+    "InitialCount": 10
+  },
+  {
+    "$type": "Biblioteket2.Fact, Biblioteket2",
+    "Topic": "rrr",
+    "Title": "tt",
+    "Author": "ttttt",
+    "Count": 4,
+    "InitialCount": 4
+  },
+  {
+    "$type": "Biblioteket2.Fact, Biblioteket2",
+    "Topic": "ffff",
+    "Title": "ttt",
+    "Author": "yyyy",
+    "Count": 5,
+    "InitialCount": 5
+  },
+  {
+    "$type": "Biblioteket2.Fact, Biblioteket2",
+    "Topic": "gggg",
+    "Title": "hhhhh",
+    "Author": "dddddd",
+    "Count": 3,
+    "InitialCount": 3
+  },
+  {
+    "$type": "Biblioteket2.Fact, Biblioteket2",
+    "Topic": "hh",
+    "Title": "yyyyy",
+    "Author": "gggg",
+    "Count": 2,
+    "InitialCount": 2
+  },
+  {
+    "$type": "Biblioteket2.Fact, Biblioteket2",
+    "Topic": "jjjj",
+    "Title": "jjj",
+    "Author": "jjjj",
+    "Count": 5,
+    "InitialCount": 5
+  },
+  {
+    "$type": "Biblioteket2.Fact, Biblioteket2",
+    "Topic": "oooo",
+    "Title": "uuu",
+    "Author": "uuu",
+    "Count": 7,
+    "InitialCount": 7
+  },
+  {
+    "$type": "Biblioteket2.Children, Biblioteket2",
+    "Age": 6,
+    "Pictures": true,
+    "Title": "kids",
+    "Author": "kids",
+    "Count": 4,
+    "InitialCount": 4
+  },
+  {
+    "$type": "Biblioteket2.Fictional, Biblioteket2",
+    "Published": "2018-10-02T00:00:00",
+    "Language": "svenskaaa",
+    "Title": "kkkk",
+    "Author": "dddd",
+    "Count": 5,
+    "InitialCount": 5
+  },
+  {
+    "$type": "Biblioteket2.Fictional, Biblioteket2",
+    "Published": "2010-03-02T00:00:00",
+    "Language": "sve",
+    "Title": "lllllll",
+    "Author": "hhhhhh",
+    "Count": 5,
+    "InitialCount": 5
+  }
+]
