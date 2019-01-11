@@ -53,14 +53,6 @@
   },
   {
     "$type": "Biblioteket2.Fact, Biblioteket2",
-    "Topic": "kor",
-    "Title": "test3333",
-    "Author": "Ca333333rl on",
-    "Count": 10,
-    "InitialCount": 10
-  },
-  {
-    "$type": "Biblioteket2.Fact, Biblioteket2",
     "Topic": "rrr",
     "Title": "tt",
     "Author": "ttttt",
@@ -90,48 +82,5 @@
     "Author": "gggg",
     "Count": 2,
     "InitialCount": 2
-  },
-  {
-    "$type": "Biblioteket2.Fact, Biblioteket2",
-    "Topic": "jjjj",
-    "Title": "jjj",
-    "Author": "jjjj",
-    "Count": 5,
-    "InitialCount": 5
-  },
-  {
-    "$type": "Biblioteket2.Fact, Biblioteket2",
-    "Topic": "oooo",
-    "Title": "uuu",
-    "Author": "uuu",
-    "Count": 7,
-    "InitialCount": 7
-  },
-  {
-    "$type": "Biblioteket2.Children, Biblioteket2",
-    "Age": 6,
-    "Pictures": true,
-    "Title": "kids",
-    "Author": "kids",
-    "Count": 4,
-    "InitialCount": 4
-  },
-  {
-    "$type": "Biblioteket2.Fictional, Biblioteket2",
-    "Published": "2018-10-02T00:00:00",
-    "Language": "svenskaaa",
-    "Title": "kkkk",
-    "Author": "dddd",
-    "Count": 5,
-    "InitialCount": 5
-  },
-  {
-    "$type": "Biblioteket2.Fictional, Biblioteket2",
-    "Published": "2010-03-02T00:00:00",
-    "Language": "sve",
-    "Title": "lllllll",
-    "Author": "hhhhhh",
-    "Count": 5,
-    "InitialCount": 5
   }
 ]

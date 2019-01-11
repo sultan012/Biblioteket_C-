@@ -69,14 +69,28 @@ namespace Biblioteket2
                 }
               Data.SaveData(Books);
 
-             //BookList.Add(new Fact { Title = "Klockboken", Author = "Carl Hallvarsson", Topic = "Klockor", Count = 5, InitialCount = 5 });
-            //BookList.Add(new Fictional { Title = "Som pesten", Author = "Hanne-Vibeke Holst ", Language = "Svenska", Published = new DateTime(2018, 10, 2), Count = 5, InitialCount = 5 });
-           // BookList.Add(new Children { Title = "Barnens sånger och sagor", Author = "Catarina Kruusval", Age = 3, Pictures = true, Count = 3, InitialCount = 3 });
-           
-          
         }
        
-       
+        public static void RemoveBook(int id)
+        {
+            List<Book> Books = Data.GetData(); 
+            if(id==-1)
+            {
+                bool valid = false;
+                do {
+                    Console.WriteLine("Ange boknummer:");
+                    string input = Console.ReadLine();
+                    valid = int.TryParse(input, out id);
+                } while(! valid);
+            
+            }
+
+                
+
+            Books.RemoveAt(id-1);
+            Data.SaveData(Books);
+        }
+
         }
 
     }

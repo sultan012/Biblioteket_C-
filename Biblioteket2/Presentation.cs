@@ -40,7 +40,7 @@ namespace Biblioteket2
                 Console.WriteLine($"Antal i biblioteket just nu: {BookList[bookid].Count} av {BookList[bookid].InitialCount}");
 
             }
-           
+            Console.WriteLine("\n\tAnge boknummer: 'L'för lånabok & 'R' för Retunerabok \n\n\tAnge 'N' / för Nybok --- 'D'/ för Tarbort en bok ");
         }
     }
 }

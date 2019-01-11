@@ -18,6 +18,7 @@ namespace Biblioteket2
             {
                  List<Book> Books = Data.GetData();
                 // Presenterar vald bok, eller alla böcker om ia.id = -1
+
                 Presentation.ViewBooks(Books, ia.id);
                 
                     
@@ -28,6 +29,8 @@ namespace Biblioteket2
                 {
                     Books[ia.id] = Transactions.LendReturn(Books[ia.id], ia.action);
                     Data.SaveData(Books);
+
+                    
                 }
             }
 

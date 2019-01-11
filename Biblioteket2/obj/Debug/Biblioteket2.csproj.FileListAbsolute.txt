@@ -19,3 +19,14 @@ C:\STI\OOP\Biblioteket2\Biblioteket2\Biblioteket2\obj\Debug\Biblioteket2.csproj.
 C:\STI\OOP\Biblioteket2\Biblioteket2\Biblioteket2\obj\Debug\Biblioteket2.csproj.CopyComplete
 C:\STI\OOP\Biblioteket2\Biblioteket2\Biblioteket2\obj\Debug\Biblioteket2.exe
 C:\STI\OOP\Biblioteket2\Biblioteket2\Biblioteket2\obj\Debug\Biblioteket2.pdb
+C:\STI\OOP\Biblioteket\Biblioteket2\bin\Debug\Biblioteket2.exe.config
+C:\STI\OOP\Biblioteket\Biblioteket2\bin\Debug\Biblioteket2.exe
+C:\STI\OOP\Biblioteket\Biblioteket2\bin\Debug\Biblioteket2.pdb
+C:\STI\OOP\Biblioteket\Biblioteket2\bin\Debug\Newtonsoft.Json.dll
+C:\STI\OOP\Biblioteket\Biblioteket2\bin\Debug\Newtonsoft.Json.pdb
+C:\STI\OOP\Biblioteket\Biblioteket2\bin\Debug\Newtonsoft.Json.xml
+C:\STI\OOP\Biblioteket\Biblioteket2\obj\Debug\Biblioteket2.csprojAssemblyReference.cache
+C:\STI\OOP\Biblioteket\Biblioteket2\obj\Debug\Biblioteket2.csproj.CoreCompileInputs.cache
+C:\STI\OOP\Biblioteket\Biblioteket2\obj\Debug\Biblioteket2.csproj.CopyComplete
+C:\STI\OOP\Biblioteket\Biblioteket2\obj\Debug\Biblioteket2.exe
+C:\STI\OOP\Biblioteket\Biblioteket2\obj\Debug\Biblioteket2.pdb

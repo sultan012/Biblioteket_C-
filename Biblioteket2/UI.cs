@@ -27,16 +27,18 @@ namespace Biblioteket2
                     case "r":
                         ia.action = "return";
                         break;
+
                     case "l":
                         ia.action = "lend";
                         break;
+
                     case "n":
-                        Indata.EnterBook();
-                       
+                        Indata.EnterBook();                       
                         break;
+
                     case "d":
-                       // BookList.RemoveAt(ia.id);
-                        ia.action = "delete";
+                       Indata.RemoveBook(ia.id);    
+                        ia.id=-1;
                         break;
                 }
 
